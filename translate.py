@@ -25,3 +25,12 @@ asyncio.run(main())
 # asyncio.run() is used to run the asynchronous function
 
 #From one to another
+
+
+'''In Summary:
+1. Create a Translator object using googletrans.Translator()
+2. Use the translate() method to translate text
+3. Use the detect() method to detect the language of text
+4. Use the src parameter to specify the source language
+5. Use the dest parameter to specify the destination language
+6. Use the text attribute to get the translated text'''
